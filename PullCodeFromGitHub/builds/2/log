@@ -1,0 +1,19 @@
+Started by user [8mha:////4MMpKgNOIz824trHtTqhQPzJP1bBmE3YqRIUlFRlwQ19AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/PullCodeFromGitHub
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/PullCodeFromGitHub/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/DanielAlinIonica/hello-world.git # timeout=10
+Fetching upstream changes from https://github.com/DanielAlinIonica/hello-world.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.37.1'
+ > git fetch --tags --force --progress -- https://github.com/DanielAlinIonica/hello-world.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision aacc9fa39ba3ca8f46cfd0019f35ce4511287375 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f aacc9fa39ba3ca8f46cfd0019f35ce4511287375 # timeout=10
+Commit message: "updated pom.xml file"
+ > git rev-list --no-walk aacc9fa39ba3ca8f46cfd0019f35ce4511287375 # timeout=10
+Finished: SUCCESS

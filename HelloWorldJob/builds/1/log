@@ -1,0 +1,9 @@
+Started by user [8mha:////4MMpKgNOIz824trHtTqhQPzJP1bBmE3YqRIUlFRlwQ19AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/HelloWorldJob
+[HelloWorldJob] $ /bin/sh -xe /tmp/jenkins5892911583443902238.sh
++ echo 'Hello World'
+Hello World
++ uptime
+ 18:22:54 up 44 min,  1 user,  load average: 0.00, 0.05, 0.08
+Finished: SUCCESS

@@ -1,0 +1,9 @@
+commit a8e6794553ef57e02d87e077d12ed83580b89923
+tree 95eef0f047d5430793be52157fe0f178eeb3cb00
+parent aacc9fa39ba3ca8f46cfd0019f35ce4511287375
+author DanielIonica <58417860+DanielAlinIonica@users.noreply.github.com> 2022-11-07 15:32:51 +0200
+committer GitHub <noreply@github.com> 2022-11-07 15:32:51 +0200
+
+    Content change for welcome message on index page
+
+:100644 100644 7f5bec63ce601e8127434b65f1b20ec6b0429d20 3dc7ddd5efb6b1a7c46595ab283884d1c1b307c1 M	webapp/src/main/webapp/index.jsp
